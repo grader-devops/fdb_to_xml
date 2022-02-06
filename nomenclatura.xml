@@ -1,0 +1,54 @@
+<DOCUMENTS>
+    <DOCUMENT>
+        <DOCNOMER>номер документа</DOCNOMER>
+        <DOCDATA>дата документа</DOCDATA>
+        <ROW>
+            <STAVNDS>Ставка НДС</STAVNDS>
+            <SUMMA>Сумма</SUMMA>
+            <SUMMANDS>Сумма НДС</SUMMANDS>
+            <KOLICH>Количество</KOLICH>
+            <VES>Вес</VES>
+            <CENA>Цена</CENA>
+            <RAZMER>Размер</RAZMER>
+            <TOVNAME>Наименование товара</TOVNAME>
+            <TOVFNAME>Наименование полное</TOVFNAME>
+            <ARTIKUL>Артикул</ARTIKUL>
+            <VESOVOY>Весовой (если 'истина', то сумма рассчитывается не от количества, от веса)</VESOVOY>
+            <SREDVES>Средний вес</SREDVES>
+            <TOVSTAVNDS>Ставка НДС (в справочник номенклатуры)</TOVSTAVNDS>
+            <PROBANAME>Наименование пробы</PROBANAME>
+            <PROBAMET>Металл пробы</PROBAMET>
+            <PROBAPROBA>Проба</PROBAPROBA>
+            <TINAME>Наименование типа изделия</TINAME>
+            <TIRAZMER>У этого типа изделия есть размер</TIRAZMER>
+            <TIVES>Учитывать вес</TIVES>
+            <SNNAME>Наименование серии номенклатуры</SNNAME>
+            <SNPASSPORT>Номер паспорта серии номенклатуры</SNPASSPORT>
+            <ROWXN>
+                Спецификация (описаны вставки)
+                <XNNAME>Наименование характеристики номенклатуры</XNNAME>
+                <XNFNAME>Полное наименование характеристики номенклатуры</XNFNAME>
+                <XNSKOL>Строка спецификации – количество</XNSKOL>
+                <XNSVES>Строка спецификации – вес</XNSVES>
+                <XNSKNAME>Наименование камня</XNSKNAME>
+                <XNSKSHNAME>Краткое наименование</XNSKSHNAME>
+                <XNSKCVET>Цвет камня</XNSKCVET>
+                <XNSKGRCVET>Группа цвета</XNSKGRCVET>
+                <XNSKGRDEF>Группа дефекта</XNSKGRDEF>
+                <XNSKRASSEV>Рассев</XNSKRASSEV>
+                <XNSKRASHET>Расчет цены за вес</XNSKRASHET>
+                <XNSKKARAT>Учет в каратах</XNSKKARAT>
+                <XNSKVID>Вид камня</XNSKVID>
+                <XNSFO>Форма огранки</XNSFO>
+                <XNSCKNAME>Цвет камня</XNSCKNAME>
+                <XNSCKVIV>Цвет камня выводить</XNSCKVIV>
+                <XNSCKGC>У цвета камня есть группа цвета</XNSCKGC>
+                <XNSCKGD>У цвета камня есть группа дефекта</XNSCKGD>
+                <XNSGRCVET>Группа цвета</XNSGRCVET>
+                <XNSGRDEF>Группа дефекта</XNSGRDEF>
+                <XNSRASSEV>Рассев</XNSRASSEV>
+                <XNSRAZMER1>Размер1</XNSRAZMER1>
+            </ROWXN>
+        </ROW>
+    </DOCUMENT>
+</DOCUMENTS>
